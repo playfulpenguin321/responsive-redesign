@@ -1,7 +1,6 @@
 body {
   background-color: pink;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-    /* font-family: 'Trebuchet MS', sans-serif; */
 }
   
 p {
@@ -19,15 +18,4 @@ ol li {
 
 table tr td {
   padding: 0.5rem;
-}
-  
-.pic-container {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: space-evenly;
-}
-  
-.info-block {
-  margin-left: 50px;
-  margin-right: 50px;
 }
